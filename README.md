@@ -7,7 +7,7 @@ I am a Solutions Architect who is passionate about AI, software, systems archite
 [owenelliott.dev](https://www.owenelliott.dev/)
 
 ### Connect with me:
-[<img align="left" alt="OwenPendrighElliott | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="OwenElliottDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -36,14 +36,13 @@ My progressive metal band Axiomatic Theory
 
 [linkedin]: https://www.linkedin.com/in/owen-elliott-345254166/
 [band_yt]: https://www.youtube.com/channel/UCMUUIxKFO4ueTK1BFe51UiQ
-[github]: https://github.com/OwenPendrighElliott
-[insta]: https://www.instagram.com/owenpendrighelliott/
+[github]: https://github.com/owenelliottdev
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owenpendrighelliott&layout=compact&hide=jupyter%20notebook&theme=dracula" alt="Top Langs" height="200px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=owenelliottdev&layout=compact&hide=jupyter%20notebook&theme=dracula" alt="Top Langs" height="200px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=owenpendrighelliott&show_icons=true&theme=dracula&rank_icon=github" alt="GitHub Stats" height="200px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=owenelliottdev&show_icons=true&theme=dracula&rank_icon=github" alt="GitHub Stats" height="200px"/>
   </a>
 </p>
